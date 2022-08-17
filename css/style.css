@@ -1,0 +1,40 @@
+.cont{
+    margin-top: 20px;
+    
+}
+.cont div{
+    border: none;
+}
+#carouselExampleCaptions{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+   
+}
+.card1{
+    border: none;
+}
+.card1 img{
+    margin-left: 70px;
+}
+.card-body{
+    text-align: center;
+}
+.card {
+    padding: 20px;
+    margin: 20px;
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(224, 228, 228);
+}
+.main{
+    background-color: rgb(209, 212, 212);
+}
+.footer{
+    margin-left: 50px;
+    padding: 20px;
+}
+
